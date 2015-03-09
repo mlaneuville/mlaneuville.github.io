@@ -4,18 +4,25 @@ title: ELSI Symposium &middot Evolution of multicellularity
 type: poster
 ---
 
->Miljkovic, et al., Science. 342, 724-726 (2013). [[PDF]](/papers/Miljkovic+2013.pdf)   
-See also this related study: [Laneuville+2013]({% post_url 2013-06-18-asymmetric-lunar-evolution %})
+>Guttenberg, Laneuville, Ray, Puzzio, work in progress.
 
-Maps of crustal thickness derived from NASA’s Gravity Recovery and Interior Laboratory (GRAIL)
-mission revealed more large impact basins on the nearside hemisphere of the Moon than on its
-farside. The enrichment in heat-producing elements and prolonged volcanic activity on the lunar
-nearside hemisphere indicate that the temperature of the nearside crust and upper mantle was hotter
-than that of the farside at the time of basin formation. Using the iSALE-2D hydrocode to model
-impact basin formation, we found that impacts on the hotter nearside would have formed basins with
-up to twice the diameter of similar impacts on the cooler farside hemisphere. The size distribution
-of lunar impact basins is thus not representative of the earliest inner solar system impact
-bombardment.
+The hierarchical organization of biological systems appears to derive from transitions in the units
+of individuality that represent singular points in the evolutionary process. Fundamental to these
+are competing selective forces operating at diㄦent levels of organization. During such
+transitions, the structure of and thus manner in which information is encoded in chemical or
+biological systems undergoes what is analogous to the phase transitions of statistical physics. The
+evolution of multicellularity is one of the most striking examples of such a transition in biology.
 
-![Impact Basins](/images/asymmetricImpactBasins.png)
+We study a simple stochastic model where isolated communities of interacting unicellular organisms
+undergo a transition to multicellularity. This transition is indicated by the marked decrease in
+the number of cells utilized to generate new communities from pre-existing ones. In this sense, the
+community begins to reproduce as a whole via a decreasing number of cells. While this transition
+is feasible in its absence, the presence of horizontal gene transfer drastically reduces the fitness
+barrier to the occurrence of such a transition. 
+
+Together, these features capture from a statistical and mechanistic perspective two of the most
+prominent aspects of the transition to multicellularity: the evolution of a developmental process
+and reproduction through a unicellular bottleneck.
+
+![Survival Rate](/images/multicellSurvivalRate.png)
 
