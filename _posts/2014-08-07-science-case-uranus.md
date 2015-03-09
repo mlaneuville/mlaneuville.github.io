@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The science case for an orbital mission to Uranus
+type: article
 ---
 
 >Arridge, et al., Planet. Space Sci. 104, 122-140 (2014). [[PDF]](/papers/Arridge+2014.pdf)   

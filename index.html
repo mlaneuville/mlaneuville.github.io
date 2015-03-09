@@ -4,6 +4,13 @@ title: Home
 ---
 
 <section class="archive">
+
+<center>
+<span class="leg-azul">article</span> &middot
+<span class="leg-amber">poster</span> &middot
+<span class="leg-avocado">talk</span>
+</center><br/>
+
 {% for post in site.posts %}
 {% unless post.next %}
 
@@ -26,7 +33,12 @@ title: Home
 {% endif %}
 {% endunless %}
 
-  <article class="row gutters">
+  {% assign type="" %}
+  {% if {{post.type}} == "article" %} {% assign type=" azul" %} {% endif %}
+  {% if {{post.type}} == "poster" %} {% assign type=" amber" %} {% endif %}
+  {% if {{post.type}} == "presentation" %} {% assign type=" avocado" %} {% endif %}
+
+  <article class="row gutters{{type}}">
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
     <div class="post-date col span_4">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B" }}</time>
@@ -36,4 +48,6 @@ title: Home
 {% if forloop.last %}</div></div>{% endif %}
 
 {% endfor %}
+
+
 </section>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Asymmetric thermal evolution of the Moon
+type: article
 ---
 
 >Laneuville, Wieczorek, Breuer, Tosi, J. Geophys. Res. 118, 1435–1452 (2013). [[PDF]](/papers/Laneuville+2013.pdf)    

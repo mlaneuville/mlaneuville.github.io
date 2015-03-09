@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Thermo-chemical evolution and contraction of Mercury
+type: article
 ---
 
 >Grott, Breuer, & Laneuville, Earth Planet. Sci. Lett. 307, 135–146 (2011). [[PDF]](/papers/Grott+2011.pdf)

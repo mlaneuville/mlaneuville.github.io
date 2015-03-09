@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A long-lived lunar dynamo powered by core crystallization
+type: article
 ---
 
 >Laneuville, et al., Earth Planet. Sci. Lett. 401, 251-260 (2014). [[PDF]](/papers/Laneuville+2014.pdf)   

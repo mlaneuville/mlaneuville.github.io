@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An impact-driven dynamo for the early Moon
+type: article
 ---
 
 >Le Bars, et al., Nature. 479, 215-218 (2011). [[PDF]](/papers/LeBars+2011.pdf)   

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MUSE – Mission to the Uranian system
+type: article
 ---
 
 >Bocanegra-Bahamon, et al., Adv. Space Res. 342, 724-726 (2013). [[PDF]](/papers/Bocanegra+2015.pdf)   

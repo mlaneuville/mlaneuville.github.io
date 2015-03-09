@@ -109,6 +109,10 @@ footer {
   text-align: center;
 }
 
+.leg-azul {color: $azul-accent-color;}
+.leg-amber {color: $amber-accent-color;}
+.leg-avocado {color: $avocado-accent-color;}
+
 /*============================================================================*/
 .azul { a { color: $azul-accent-color;
     &:hover { color: darken($azul-accent-color, 20%);

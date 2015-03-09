@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ELSI Symposium &middot Evolution of multicellularity
+type: poster
 ---
 
 >Miljkovic, et al., Science. 342, 724-726 (2013). [[PDF]](/papers/Miljkovic+2013.pdf)   
