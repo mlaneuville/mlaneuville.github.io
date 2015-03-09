@@ -1,0 +1,13 @@
+markdown: redcarpet
+highligter: null
+permalink: /:title
+
+url: http://mlaneuville.github.io
+baseurl: 
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
