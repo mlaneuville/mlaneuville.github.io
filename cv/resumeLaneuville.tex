@@ -1,0 +1,163 @@
+\documentclass[11pt,fullpage]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{listliketab}
+\usepackage{array}
+\usepackage{longtable}
+
+\usepackage{natbib}
+\usepackage{bibentry}
+\nobibliography*
+%\bibliographystyle{apa}
+
+% Palatino font
+%\usepackage[T1]{fontenc}
+%\usepackage[sc,osf]{mathpazo}
+
+\usepackage[utf8]{inputenc}
+\def\name{Matthieu Laneuville (Research Scientist)}
+
+\reversemarginpar
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.0in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+\bibliographystyle{apalike}
+
+% Print name centered and bold:
+\centerline{\Large \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.50\linewidth}
+\href{http://elsi.jp/en/}{Earth-Life Science Institute} \\
+  	Tokyo Institute of Technology \\
+	2-12-1-IE-1 Ookayama, Meguro-ku \\
+	Tokyo, 152-8550, Japan \\
+\end{minipage}
+\begin{minipage}{0.50\linewidth}
+  \begin{tabular}{ll}
+    Phone: & +81 (0)3 57 34 27 15 \\
+    Email: & \href{mailto:mlaneuville@gmail.com}{mlaneuville@gmail.com} \\
+    Homepage: & \href{http://mlaneuville.github.io}{http://mlaneuville.github.io} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Education}
+
+\begin{longtable}{p{0.7in}|p{5.5in}}
+	2010--2013 & {\bf Ph.D.} Geophysics, Institut de Physique du Globe de Paris (IPGP) \\
+	2008--2010 & {\bf M.Sc.} Physics, Université Pierre et Marie Curie (UPMC), Paris \\
+	2005--2008 & {\bf B.Sc.} Physics, Université de Provence I \\
+\end{longtable}
+
+\section*{Publications}
+
+\setlength{\extrarowheight}{10pt}
+
+\begin{longtable}{p{0.3in}|p{5.5in}}
+  2015 & \bibentry{BocanegraBahamon:2015dp} \\
+	  & \bibentry{Guttenberg:2015wh} \\
+  2014 & \bibentry{Laneuville:2014el} \\
+	  & \bibentry{Arridge:2014ho} \\
+  2013 & \bibentry{Laneuville:2013gp} \\
+	  & \bibentry{Miljkovic:2013uw}\\ 
+  2011 & \bibentry{LeBars:2012hc} \\
+       	  & \bibentry{Grott:2011hl} \\
+\end{longtable}
+
+\section*{Conference Oral Presentations}
+
+\begin{longtable}{p{0.3in}|p{5.5in}}
+	2014 & \emph{A long-lived lunar dynamo powered by core crystallization}, in Lunar and Planetary Science 
+Conference (LPSC), Houston, US. \\
+	2013 & \emph{Asymmetric Thermo-Chemical Evolution of the Moon}, in Lunar and Planetary Science
+Conference (LPSC), Houston, US. \\
+	2012 & \emph{Asymmetric thermal evolution of the Moon}, in Geodynamics Workshop, Wandlitz, Germany. \\
+	2012 & \emph{Asymmetric thermal evolution of the Moon}, in Planetary Volcanism Workshop, Toulouse, France. \\
+	2010 & \emph{Thermo-chemical evolution and global contraction of Mercury}, in European Planetary
+Science Congress (EPSC), Rome, Italy.
+\end{longtable}
+
+\setlength{\extrarowheight}{5pt}
+
+\section*{Grants}
+
+\begin{longtable}{p{0.3in}|p{5.5in}}
+
+ 2013 & PI of DARI Proposal for Supercomputer access (80k hours) \\
+ 2013 & Co-PI of HLRN Supercomputer access (1.2M hours) \\
+ 2012 & PI of DARI Proposal for Supercomputer access (80k hours) \\
+ 2012 & Co-PI of JSC Supercomputer access (384k hours) \\
+ 2012 & CNES Alpbach Summer School Fellow (1100 EUR) \\
+
+\end{longtable}
+
+%\section*{Additional Papers Presented at Professional Meetings}
+
+%Bergey CM & Patel ER (2007, November). The vocal repertoire of the greater bamboo lemur.
+%Presentation at the American Embassy in Antananarivo, Madagascar.
+
+\section*{Teaching Experience and Public Outreach}
+
+\begin{longtable}{p{0.7in}|p{5.5in}}
+
+	2015 & \textbf{Article} review article on lunar history for French newspaper (in prep). \\
+	2014 & \textbf{Interwiew} 3 interventions on lunar evolution for French and German newspaper. \\
+
+	2011 & \textbf{Teaching assistant} for ``Computing tools'' University Paris Diderot (Paris 7) \\ 
+
+	2010 & \textbf{Teaching assistant} for ``Mathématiques 2'', Prof. S. Jacquemoud (Institut de Physique
+du Globe de Paris) \\ 
+
+	2009 & \textbf{Public outreach}. Participation in the 40th anniversary commemoration of the Apollo 11
+Moon landing (Clair de Lune). \\
+
+\end{longtable}
+
+
+% Footer
+\bigskip
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today
+  \end{footnotesize}
+\end{center}
+
+\nobibliography{library}
+
+\end{document}

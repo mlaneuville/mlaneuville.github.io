@@ -13,6 +13,6 @@ planetary mission planning.
 
 You can find my Google Scholar page [here](https://scholar.google.com/citations?user=A2Btyc0AAAAJ).   
 And my ResearcherID page is [here](http://researcherid.com/rid/F-8523-2010).  
-A pdf version of my CV is also [available](/images/CV.pdf).   
+A pdf version of my resume is also [available](/cv/resumeLaneuville.pdf).   
 
 Or [contact](mailto:mlaneuville@elsi.jp) me directly!
