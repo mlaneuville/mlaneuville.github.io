@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Des éruptions sur la Lune au temps des dinosaures
-type: outreach
+type: public
 ---
 
 Interview for the French newspaper __Le Figaro__ following Braden et al. Evidence for basaltic

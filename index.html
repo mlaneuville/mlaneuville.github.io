@@ -9,7 +9,7 @@ title: Home
 <span class="leg-azul">article</span> &middot
 <span class="leg-amber">poster</span> &middot
 <span class="leg-avocado">talk</span> &middot
-<span class="leg-ruby">outreach</span>
+<span class="leg-ruby">public</span>
 </center><br/>
 
 {% for post in site.posts %}
@@ -34,11 +34,11 @@ title: Home
 {% endif %}
 {% endunless %}
 
-  {% assign type="" %}
+  {% assign type=" black" %}
   {% if {{post.type}} == "article" %} {% assign type=" azul" %} {% endif %}
   {% if {{post.type}} == "poster" %} {% assign type=" amber" %} {% endif %}
   {% if {{post.type}} == "presentation" %} {% assign type=" avocado" %} {% endif %}
-  {% if {{post.type}} == "outreach" %} {% assign type=" ruby" %} {% endif %}
+  {% if {{post.type}} == "public" %} {% assign type=" ruby" %} {% endif %}
 
   <article class="row gutters{{type}}">
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
