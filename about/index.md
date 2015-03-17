@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+My name is Matthieu Laneuville, currently Research Scientist at the [Earth-Life Science
+Institute](http://elsi.jp/en/), from the [Tokyo Institute of
+Technology](http://www.titech.ac.jp/english/), Japan.
+
 I spend most of my time worrying about the evolution of our Moon, and more precisely, the origin of
 the anomalous KREEP region on the lunar nearside. I am more generally interested in the interior
 evolution of the terrestrial planets. As part of my position at [ELSI](http://elsi.jp/en/) I have
