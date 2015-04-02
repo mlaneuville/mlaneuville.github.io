@@ -3,15 +3,17 @@ layout: page
 title: About
 ---
 
-My name is Matthieu Laneuville, currently Research Scientist at the [Earth-Life Science
+My name is Matthieu Laneuville, currently Assistant Professor at the [Earth-Life Science
 Institute](http://elsi.jp/en/), from the [Tokyo Institute of
 Technology](http://www.titech.ac.jp/english/), Japan.
 
-I spend most of my time worrying about the evolution of our Moon, and more precisely, the origin of
-the anomalous KREEP region on the lunar nearside. I am more generally interested in the interior
-evolution of the terrestrial planets. As part of my position at [ELSI](http://elsi.jp/en/) I have
-started to investigate a few aspects of the Earth-Life interactions. I also try to get involved in
-planetary mission planning.
+My focus is the long term evolution of terrestrial bodies: Mercury's contraction history, the
+asymmetric evolution of our Moon, the deep Earth interior are example of my projects.
+ 
+Within [ELSI](http://elsi.jp/en/) I have recently started to work on global thermodynamics and
+chemical evolution of the Earth, specifically trying to assess the importance of the biosphere. This
+has implications for our understanding of the Earth as a system and the understanding of general
+planetary evolution.
 
 ---
 
