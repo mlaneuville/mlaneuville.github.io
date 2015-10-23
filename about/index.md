@@ -8,12 +8,16 @@ Institute](http://elsi.jp/en/), from the [Tokyo Institute of
 Technology](http://www.titech.ac.jp/english/), Japan.
 
 My focus is the long term evolution of terrestrial bodies: Mercury's contraction history, the
-asymmetric evolution of our Moon, the deep Earth interior are example of my projects.
+asymmetric evolution of our Moon, the deep Earth interior are example of my projects. I am
+particularly interested in developing a general understanding of the possible phase space of
+planetary evolution to answer questions such as "What would Earth look like today if life were not
+present?", or "How would Venus have evolved if formed at 1 AU instead of its current location?".
  
 Within [ELSI](http://elsi.jp/en/) I have recently started to work on global thermodynamics and
-chemical evolution of the Earth, specifically trying to assess the importance of the biosphere. This
-has implications for our understanding of the Earth as a system and the understanding of general
-planetary evolution.
+chemical evolution of the Earth, specifically trying to assess the importance of the biosphere. When
+considering the evolution of the Earth from its complete reaction network, life is a process that
+changes its topology. We are working on understanding what these changes are and how they influence
+the general flows of energy and matter on the Earth.
 
 ---
 
