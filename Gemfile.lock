@@ -116,7 +116,6 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    redcarpet (3.1.2)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
@@ -137,7 +136,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  redcarpet
 
 BUNDLED WITH
    1.12.5
