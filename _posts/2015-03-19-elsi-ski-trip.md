@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ELSI on the ski slopes!
-type: public
+type: misc
 ---
 
 Small report on our first lab ski trip! Full version

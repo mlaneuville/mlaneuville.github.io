@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Junge Volkane auf dem Mond
-type: public
+type: misc
 ---
 
 Interview for the German newspaper __Deutschlandfunk__ following Braden et al. Evidence for basaltic

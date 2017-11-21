@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts after one month in Tokyo
-type: public
+type: misc
 ---
 
 Small article for ELSI's blog. Full version
