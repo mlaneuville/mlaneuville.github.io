@@ -35,10 +35,10 @@ title: Home
 {% endunless %}
 
   {% assign type=" black" %}
-  {% if {{post.type}} == "article" %} {% assign type=" azul" %} {% endif %}
-  {% if {{post.type}} == "poster" %} {% assign type=" amber" %} {% endif %}
-  {% if {{post.type}} == "talk" %} {% assign type=" avocado" %} {% endif %}
-  {% if {{post.type}} == "misc" %} {% assign type=" ruby" %} {% endif %}
+  {% if post.type == "article" %} {% assign type=" azul" %} {% endif %}
+  {% if post.type == "poster" %} {% assign type=" amber" %} {% endif %}
+  {% if post.type == "talk" %} {% assign type=" avocado" %} {% endif %}
+  {% if post.type == "misc" %} {% assign type=" ruby" %} {% endif %}
 
   <article class="row gutters{{type}}">
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
