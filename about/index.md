@@ -22,7 +22,7 @@ the general flows of energy and matter on the Earth.
 ---
 
 You can find my Google Scholar page [here](https://scholar.google.com/citations?user=A2Btyc0AAAAJ).   
-And my ResearcherID page is [here](http://researcherid.com/rid/F-8523-2010).  
+And my ResearcherID page is [here](http://researcherid.com/rid/F-8523-2010) (or [ORCID](https://orcid.org/0000-0001-6022-0046))
 A pdf version of my resume is also [available](/cv/resumeLaneuville.pdf).   
 
-Or [contact](mailto:mlaneuville@elsi.jp) me directly!
+Or contact me directly, by [email](mailto:mlaneuville@elsi.jp) or through [Twitter](https://twitter.com/_maat)!
